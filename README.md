@@ -1,3 +1,6 @@
+> **🔮 This project grew into [Summon](https://github.com/codyvolckmar/summon)**: one command for Nanbeige, Ornith and Ollama models, on rented pods or your own PC (Linux + Windows), with a model/context menu sized to your GPU.
+> `curl -fsSL https://codyvolckmar.github.io/summon/install.sh | bash` · [website](https://codyvolckmar.github.io/summon/)
+
 I open-sourced my one-command setup for running Nanbeige 4.3 33B as a private coding agent on a single rented GPU 🔥
 
 https://github.com/codyvolckmar/Nanbeige
